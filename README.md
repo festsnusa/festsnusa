@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=festsnusa" alt="festsnusa" /></a> </p>
 
-- 🔭 I’m currently working on [fantano-core](https://github.com/festsnusa/fantano-core)
+- 🔭 I’m currently working on [pizza-shop](https://github.com/festsnusa/pizza)
 
 - 🌱 I’m currently learning **Vue 3**
 
