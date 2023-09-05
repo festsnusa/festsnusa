@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [pizza-shop](https://github.com/festsnusa/pizza)
 
-- 🌱 I’m currently learning **[Nuxt 3](https://https://nuxt.com)**
+- 🌱 I’m currently learning **[Nuxt 3](https://nuxt.com)**
 
 - 💬 Ask me about **vue**
 
